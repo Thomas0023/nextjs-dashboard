@@ -1,7 +1,11 @@
 ## Next.js App Router Course - Starter
 
 database: https://console.neon.tech/app/projects/proud-meadow-44037735/query?database=neondb&branchId=br-frosty-grass-a2ypqm99
+
 Tutorial: https://nextjs.org/learn/dashboard-app/fetching-data
+start local machine: npm run dev
+
+
 
 This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
 
